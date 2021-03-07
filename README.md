@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-Everything and more about me www.gerv.in
+Mostly working on private projects.
+My website www.gerv.in
