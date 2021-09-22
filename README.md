@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Mostly working on private projects.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gervin1)]
-
+Mostly working on private projects. Daily using Bitbucket instead.
 
 My website www.gerv.in
